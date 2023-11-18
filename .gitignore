@@ -3,5 +3,5 @@ clothing-dataset-small/
 xception*
 core*
 model*
-/.ipynb_checkpoints/
-/.saturn/
+**/.ipynb_checkpoints/
+**/.saturn/
